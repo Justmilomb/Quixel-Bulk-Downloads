@@ -1,7 +1,7 @@
 # [Quixel](https://quixel.com/)-Bulk-Downloads
->Note: **There are two steps to this tuitorial**
+>Note: **There are two steps to this tutorial**
 
->Note: **Additional software optional for tuitorial**
+>Note: **Additional software optional for tutorial**
 
 >Note: **F12 Opens DevTools**
 
