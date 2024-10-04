@@ -39,10 +39,11 @@ You might wonder why you should download all the files instead of adding them to
 2. Go to your [libary](https://quixel.com/megascans/purchased) or [purchased](https://quixel.com/megascans/purchased) section
 3. Copy and paste the file directory that you want your assets to download too into the script (line two)
 4. Download [Auto Scroll](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Bahamida-Auto-Scroll.shtml#download) or a auto scroller of your choice.
-5. Copy code into console and press enter
-6. Set desired amount of downloads
-7. Start auto scroller to find new assets 
-8. Let script complete downloads
+5. Go to settings of your browser and set download location to chosen folder and do not ask
+6. Copy code into console and press enter
+7. Set desired amount of downloads
+8. Start auto scroller to find new assets 
+9. Let script complete downloads
 
 ## **Script**
 
